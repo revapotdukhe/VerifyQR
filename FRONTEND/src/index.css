@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+hhtml,
+body,
+#root {
+  width: 100%;
+  overflow-x: hidden;
+}
